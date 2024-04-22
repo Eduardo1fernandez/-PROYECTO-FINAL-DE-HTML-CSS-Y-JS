@@ -47,7 +47,7 @@
           <article>
             <h3>  </h3>
             <img s class="img-fluid rounded mb-3">
-            <p"> Una contracción del japonés Poketto Monsutā, que significa monstruo de bolsillo.
+            <p> Una contracción del japonés Poketto Monsutā, que significa monstruo de bolsillo.
                 <br>
                 En el principio se creo como un anime el cual se hizo popular en los años 90, estos tienen un parecido a los animales que existen sin embargo esto tienen poderes.
             </p>
